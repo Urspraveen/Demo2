@@ -1,6 +1,6 @@
-let multiply=(a,b)=>{
-    return Math.pow((a*b),2);
+let sub=(a,b)=>{
+    return Math.pow((a-b),2);
 }
 
 
-console.log(multiply(2,3));
+console.log(sub(5,3));
