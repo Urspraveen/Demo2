@@ -1,4 +1,4 @@
-var add = function (a, b) {
-    return Math.pow((a + b), 2);
+var multiply = function (a, b) {
+    return Math.pow((a * b), 2);
 };
-console.log(add(2, 3));
+console.log(multiply(2, 3));
